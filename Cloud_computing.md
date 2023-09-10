@@ -17,7 +17,7 @@
   
 ---
 
-<img width="690" alt="image" src="https://github.com/pilipi-puu-puu/Microsoft_Azure/assets/87390353/caf96010-f0a5-4a5f-9bc7-0d7ddfe9e077">
+<img width="434" alt="image" src="https://github.com/pilipi-puu-puu/Microsoft_Azure/assets/87390353/c18e8c52-3dcf-46a2-8cc2-76ec644209bf">
 
 ---
 
@@ -26,7 +26,7 @@
   
 ---
 
-<img width="491" alt="image" src="https://github.com/pilipi-puu-puu/Microsoft_Azure/assets/87390353/c6185a0e-2747-4f17-8135-f76635d58ad5">
+<img width="443" alt="image" src="https://github.com/pilipi-puu-puu/Microsoft_Azure/assets/87390353/f1caebd0-2d4f-417a-a354-2aa3a0b48444">
 
 ---
 
@@ -36,7 +36,7 @@
   
 ---
 
-<img width="366" alt="image" src="https://github.com/pilipi-puu-puu/Microsoft_Azure/assets/87390353/cc2dc3ab-d8b8-412b-a5ad-61eb177710a7">
+<img width="374" alt="image" src="https://github.com/pilipi-puu-puu/Microsoft_Azure/assets/87390353/f3ba2331-1717-42db-93ba-319acfb5b343">
 
 ---
 
@@ -45,7 +45,7 @@
 
 ---
 
-<img width="425" alt="image" src="https://github.com/pilipi-puu-puu/Microsoft_Azure/assets/87390353/01e3ed92-5c11-4514-a61f-abc601661eb8">
+<img width="446" alt="image" src="https://github.com/pilipi-puu-puu/Microsoft_Azure/assets/87390353/3b6cd14f-c8c2-4ebc-8589-0f1f59133947">
 
 ---
 
@@ -55,7 +55,7 @@
 
 ---
 
-<img width="460" alt="image" src="https://github.com/pilipi-puu-puu/Microsoft_Azure/assets/87390353/1e27f2c4-11ed-4f0d-b981-993c5250fde8">
+<img width="459" alt="image" src="https://github.com/pilipi-puu-puu/Microsoft_Azure/assets/87390353/d7cb6d38-344d-4f07-ae1e-6d0fb07aba0c">
 
 ---
 
@@ -65,6 +65,6 @@
 
 ---
 
-<img width="439" alt="image" src="https://github.com/pilipi-puu-puu/Microsoft_Azure/assets/87390353/69d532c1-d213-426b-8886-c1e2a1d26098">
+<img width="417" alt="image" src="https://github.com/pilipi-puu-puu/Microsoft_Azure/assets/87390353/f0a607f6-139d-4ec9-8c5b-143f12ba52fa">
 
 ---
