@@ -1,4 +1,7 @@
 # Cloud computing:
+- It is a delivery of computing services like servers, storage, databases, networking, software, analytics and intelligence- over the internet.
+
+---
 ### Key Characteristics:
 - Scalability
 - Elasticity
