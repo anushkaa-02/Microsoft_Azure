@@ -6,4 +6,4 @@
 - [Consumption based Model](https://github.com/pilipi-puu-puu/Microsoft_Azure/blob/main/Consumption_Model.md)
 - [IAAS, PAAS, SAAS](https://github.com/pilipi-puu-puu/Microsoft_Azure/blob/main/IAAS_PAAS_SAAS.md)
 - [Deployment model](https://github.com/pilipi-puu-puu/Microsoft_Azure/blob/main/DeploymentModel.md)
-- [Data Center, Regions, Geographies](https://github.com/pilipi-puu-puu/Microsoft_Azure/blob/main/Physical_infrastructure.md)
+- [Data Center, Regions, Geographies](https://github.com/pilipi-puu-puu/Microsoft_Azure/blob/main/physical_infrastructure.md)
