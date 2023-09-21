@@ -1,5 +1,7 @@
 # Cloud computing:
-- It is a delivery of computing services like servers, storage, databases, networking, software, analytics and intelligence- over the internet.
+- Cloud computing is a technology that enables users to access and utilize computing resources such as servers, storage, databases, and software over the internet, rather 
+  than owning and maintaining physical hardware and software. It offers scalability, flexibility, and cost-efficiency, allowing organizations and individuals to easily 
+  scale their IT infrastructure.
 
 ---
 ### Key Characteristics:
